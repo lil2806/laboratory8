@@ -1,0 +1,4 @@
+
+interface Animalmanner {
+    void sleep();
+}
